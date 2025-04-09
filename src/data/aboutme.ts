@@ -18,9 +18,9 @@ export interface AboutMe {
 }
 
 export const aboutMe: AboutMe = {
-  name: "Jane R. Smith",
-  title: "Ph.D. Candidate",
-  institution: "Stanford University",
+  name: "Jondall Norris",
+  title: "Undergraduate Researcher",
+  institution: "Bowdoin College",
   // Note that links work in the description
   description:
     "I'm a final-year <a href='https://www.stanford.edu'>PhD candidate</a> working at the intersection of causal inference and machine learning. My research focuses on developing robust, interpretable systems that can reason about cause and effect in complex environments.",
@@ -33,7 +33,7 @@ export const aboutMe: AboutMe = {
   twitterUsername: "janesmith",
   blogUrl: "https://",
   cvUrl: "https://",
-  institutionUrl: "https://www.stanford.edu",
+  institutionUrl: "https://www.bowdoin.edu",
   // altName: "",
   // secretDescription: "I like dogs.",
 };
